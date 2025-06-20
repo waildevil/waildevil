@@ -9,7 +9,7 @@
 - 🌱 Learning **Docker** and **Microservices Architecture**  
 - 💬 Ask me about **Spring Boot**, **MySQL**, and **JWT Authentication**  
 - 📫 How to reach me: wail.homan1@hotmail.com  
-- ⚡ Fun fact: I don’t show off—I show results.
+- ⚡ Fun fact: I play assassins in LOL.
 
 ---
 
