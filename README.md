@@ -5,10 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=waildevil&label=Profile%20views&color=0e75b6&style=flat" alt="waildevil" />
 </p>
 
-- 🔭 I’m currently building a **Job Board REST API**  
+- 🔭 I’m currently building a **Job Board Fullstack Web-App**  
 - 🌱 Learning **Docker** and **Microservices Architecture**  
 - 💬 Ask me about **Spring Boot**, **MySQL**, and **JWT Authentication**  
-- 📫 How to reach me: wail.homan1@hotmail.com  
+- 📫 How to reach me: wail.homan1@hotmail.com - wail.homanwork@hotmail.com 
 - ⚡ Fun fact: I play assassins in LOL.
 
 ---
