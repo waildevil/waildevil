@@ -1,14 +1,19 @@
-<h1 align="center">Hi 👋, I'm Wail</h1>
-<h3 align="center">Backend Developer | Java & Spring Boot Enthusiast</h3>
+# Hi, I'm Wail 👋 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=waildevil&label=Profile%20views&color=0e75b6&style=flat" alt="waildevil" />
-</p>
+Junior Backend Developer focused on Java, Spring Boot, and Microservices architectures. 
 
-- 🔭 I’m currently building a **Job Board Fullstack Web-App**  
-- 🌱 Learning **Docker** and **Microservices Architecture**  
-- 💬 Ask me about **Spring Boot**, **MySQL**, and **JWT Authentication**  
-- 📫 How to reach me: wail.homan1@hotmail.com - wail.homanwork@hotmail.com 
+## Main Technologies 
+
+- Java & Spring Boot
+- REST APIs & Spring Security
+- Docker & Docker Compose
+- RabbitMQ & Event-Driven Communication
+- PostgreSQL & MySQL
+- React
+  
+## Current Focus 
+Building backend applications and distributed systems using Spring Cloud, RabbitMQ, and Docker.
+📫 How to reach me: wail.homan1@hotmail.com - wail.homanwork@hotmail.com 
 
 ---
 
